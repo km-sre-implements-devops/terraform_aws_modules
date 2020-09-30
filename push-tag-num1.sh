@@ -1,5 +1,5 @@
 #!/bin/bash
-WORKDIR="$HOME/terraform/terragrunt-example/modules"
+WORKDIR="$HOME/git_repos/terraform_aws_modules"
 read -p "Enter commit message: " COMMIT_MESSAGE
 
 cd $WORKDIR
